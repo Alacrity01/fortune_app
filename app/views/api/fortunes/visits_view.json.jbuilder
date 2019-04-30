@@ -1,0 +1,1 @@
+json.visits @visit_count
